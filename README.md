@@ -1,2 +1,6 @@
 # forkortningar-varden
-förkortningar vården
+## Svod
+## PUL
+## Sjf? Sammanhållen
+## inera
+## 1177
