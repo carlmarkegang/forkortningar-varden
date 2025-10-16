@@ -1,0 +1,2 @@
+# forkortningar-varden
+förkortningar vården
