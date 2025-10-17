@@ -1,4 +1,4 @@
-# forkortningar-varden
+# Förkortningar man kan stöta på inom arbeten som rör vården i Sverige
 
 ## SKR
 Sveriges Kommuner och Regioner
@@ -48,8 +48,14 @@ Kvalitetsregistrering
 ## ADEL
 Annan dokumentation enligt lag
 
+## KVÅ
+Klassifikation av vårdåtgärder
+
+## IVO 
+Inspektionen för vård och omsorg
+
 ## Inera
-digitaliseringsbolag inom svensk välfärd, som ägs av Sveriges Kommuner och Regioner (SKR)
+Digitaliseringsbolag inom svensk välfärd, som ägs av Sveriges Kommuner och Regioner (SKR)
 Kända för bland annat
  * 1177 Vårdguiden – både webb, app och telefon.
  * Nationell patientöversikt (NPÖ) – journalinformation mellan vårdgivare.
@@ -58,6 +64,7 @@ Kända för bland annat
  * Vårdhandboken – kunskapsstöd för vårdpersonal.
  * Sjunet – säkert nätverk för informationsutbyte inom vården.
  * Webcert, Mina intyg, HSA-katalogen – olika stöd för vårdpersonal och invånare.
+ * Nationella tjänsteplattformen (NTjP)
 
 ## 1177
 Nationell plattform för hela Sveriges hälso- och sjukvård.
@@ -66,10 +73,10 @@ Nationell plattform för hela Sveriges hälso- och sjukvård.
 Vårdgivare
 
 ## VE
-Vårdenhet
+Vårdenhet(mottagning)
 
 ## SJF
-sammanhållen journalföring 
+Sammanhållen journalföring 
 
 ## NPÖ (inera)
 Nationell Patientöversikt
@@ -85,3 +92,6 @@ European Health Data Space, eller europeiska hälsodataområdet, och är EU:s in
 
 ## WCAG 
 Web Content Accessibility Guidelines
+
+## ISO
+International Organization for Standardization (Internationella standardiseringsorganisationen)
