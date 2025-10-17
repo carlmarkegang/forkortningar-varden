@@ -31,7 +31,7 @@ Sjuksköterska inom hälso- och sjukvård
 Vård och Behandling
 
 ### PUuB / PUA
-Personuppgiftsansvarig?
+Personuppgiftsbehandlingen / Personuppgiftsbiträde / Personuppgiftsansvarig?
 
 ### AMU
 Administrativa medarbetaruppdrag
