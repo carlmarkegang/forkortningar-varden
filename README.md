@@ -48,11 +48,17 @@ Kvalitetsregistrering
 ### ADEL
 Annan dokumentation enligt lag
 
+### SOL
+Socialtjänstlagen
+
 ### KVÅ
 Klassifikation av vårdåtgärder
 
 ### IVO 
 Inspektionen för vård och omsorg
+
+### PSVF
+Personalcentrerat och Sammanhållet Vårdförlopp
 
 ### Inera
 Digitaliseringsbolag inom svensk välfärd, som ägs av Sveriges Kommuner och Regioner (SKR)
