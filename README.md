@@ -101,3 +101,9 @@ Web Content Accessibility Guidelines
 
 ### ISO
 International Organization for Standardization (Internationella standardiseringsorganisationen)
+
+### ISO 9001
+innebär att en oberoende part har granskat och godkänt att organisationens kvalitetsledningssystem uppfyller kraven i standarden. Det kan ge ökad trovärdighet, förbättrad effektivitet och konkurrensfördelar.
+
+### QMS
+Quality Management System
