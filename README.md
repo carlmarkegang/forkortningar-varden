@@ -1,60 +1,60 @@
 # Förkortningar man kan stöta på inom arbeten som rör vården i Sverige
 
-## SKR
+### SKR
 Sveriges Kommuner och Regioner
 
-## SVOD
+### SVOD
 Sammanhållen vård- och omsorg
 
-## PDL
+### PDL
 Patientdatalagen
 
-## GDPR (EU)
+### GDPR (EU)
 Den allmänna dataskyddsförordningen. General Data Protection Regulation.
 
-## HSL 
+### HSL 
 Hälso- och sjukvårdslagen
 
-## PUL
+### PUL
 Personuppgiftslag
 
-## PUB-avtal
+### PUB-avtal
 Personuppgiftsbiträdesavtal 
 
-## OSL
+### OSL
 Offentlighets- och sekretesslagen
 
-## SHJ
+### SHJ
 Sjuksköterska inom hälso- och sjukvård
 
-## VoB 
+### VoB 
 Vård och Behandling
 
-## PUuB / PUA
+### PUuB / PUA
 Personuppgiftsansvarig?
 
-## AMU
+### AMU
 Administrativa medarbetaruppdrag
 
-## VMU
+### VMU
 Vårdmedarbetaruppdrag 
 
-## KSäk
+### KSäk
 Kvalitetssäkring
 
-## KReg
+### KReg
 Kvalitetsregistrering
 
-## ADEL
+### ADEL
 Annan dokumentation enligt lag
 
-## KVÅ
+### KVÅ
 Klassifikation av vårdåtgärder
 
-## IVO 
+### IVO 
 Inspektionen för vård och omsorg
 
-## Inera
+### Inera
 Digitaliseringsbolag inom svensk välfärd, som ägs av Sveriges Kommuner och Regioner (SKR)
 Kända för bland annat
  * 1177 Vårdguiden – både webb, app och telefon.
@@ -66,32 +66,32 @@ Kända för bland annat
  * Webcert, Mina intyg, HSA-katalogen – olika stöd för vårdpersonal och invånare.
  * Nationella tjänsteplattformen (NTjP)
 
-## 1177
+### 1177
 Nationell plattform för hela Sveriges hälso- och sjukvård.
 
-## VG
+### VG
 Vårdgivare
 
-## VE
+### VE
 Vårdenhet(mottagning)
 
-## SJF
+### SJF
 Sammanhållen journalföring 
 
-## NPÖ (inera)
+### NPÖ (inera)
 Nationell Patientöversikt
 
-## HSA (inera)
+### HSA (inera)
 Hälso- och Sjukvårdens Adressregister
 
-## HSA-id (inera)
+### HSA-id (inera)
 Hälso- och Sjukvårdens Adressregister id-kort för inloggning
 
-## EHDS 
+### EHDS 
 European Health Data Space, eller europeiska hälsodataområdet, och är EU:s initiativ för att skapa en gemensam digital infrastruktur för hälsodata.
 
-## WCAG 
+### WCAG 
 Web Content Accessibility Guidelines
 
-## ISO
+### ISO
 International Organization for Standardization (Internationella standardiseringsorganisationen)
