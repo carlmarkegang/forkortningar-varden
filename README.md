@@ -30,7 +30,7 @@ Sjuksköterska inom hälso- och sjukvård
 ### VoB 
 Vård och Behandling
 
-### PUuB / PUA
+### PUuB / PUB / PUA
 Personuppgiftsbehandlingen / Personuppgiftsbiträde / Personuppgiftsansvarig?
 
 ### AMU
