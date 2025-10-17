@@ -111,5 +111,11 @@ International Organization for Standardization (Internationella standardiserings
 ### ISO 9001
 innebär att en oberoende part har granskat och godkänt att organisationens kvalitetsledningssystem uppfyller kraven i standarden. Det kan ge ökad trovärdighet, förbättrad effektivitet och konkurrensfördelar.
 
+### ISO 13485 
+Internationell standard för kvalitetsledningssystem (QMS) som är speciellt utformad för organisationer inom medicinteknikbranschen
+
 ### QMS
 Quality Management System
+
+### MDR (EU)
+Medical Device Regulation, vilket är en EU-förordning för medicintekniska produkter som syftar till att säkerställa säkerhet, kvalitet och effektivitet.
