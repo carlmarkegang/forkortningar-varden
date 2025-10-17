@@ -4,7 +4,7 @@
 Sveriges Kommuner och Regioner
 
 ### SVOD
-Sammanhållen vård- och omsorg
+Sammanhållen vård- och omsorgsdokumentation
 
 ### PDL
 Patientdatalagen
@@ -16,7 +16,7 @@ Den allmänna dataskyddsförordningen. General Data Protection Regulation.
 Hälso- och sjukvårdslagen
 
 ### PUL
-Personuppgiftslag
+Personuppgiftslag - Upphävd sedan 2018 och ersatt av GDPR
 
 ### PUB-avtal
 Personuppgiftsbiträdesavtal 
@@ -86,6 +86,12 @@ Hälso- och Sjukvårdens Adressregister
 
 ### HSA-id (inera)
 Hälso- och Sjukvårdens Adressregister id-kort för inloggning
+
+### NTjP (inera)
+Nationella tjänsteplattformen
+
+### SUSSA
+Samverkan för utveckling av sammanhållen vård och omsorg
 
 ### EHDS 
 European Health Data Space, eller europeiska hälsodataområdet, och är EU:s initiativ för att skapa en gemensam digital infrastruktur för hälsodata.
