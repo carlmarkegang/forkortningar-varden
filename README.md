@@ -1,9 +1,87 @@
 # forkortningar-varden
-## Svod
+
+## SKR
+Sveriges Kommuner och Regioner
+
+## SVOD
+Sammanhållen vård- och omsorg
+
+## PDL
+Patientdatalagen
+
+## GDPR (EU)
+Den allmänna dataskyddsförordningen. General Data Protection Regulation.
+
+## HSL 
+Hälso- och sjukvårdslagen
+
 ## PUL
-## Sjf? Sammanhållen
-## inera
+Personuppgiftslag
+
+## PUB-avtal
+Personuppgiftsbiträdesavtal 
+
+## OSL
+Offentlighets- och sekretesslagen
+
+## SHJ
+Sjuksköterska inom hälso- och sjukvård
+
+## VoB 
+Vård och Behandling
+
+## PUuB / PUA
+Personuppgiftsansvarig?
+
+## AMU
+Administrativa medarbetaruppdrag
+
+## VMU
+Vårdmedarbetaruppdrag 
+
+## KSäk
+Kvalitetssäkring
+
+## KReg
+Kvalitetsregistrering
+
+## ADEL
+Annan dokumentation enligt lag
+
+## Inera
+digitaliseringsbolag inom svensk välfärd, som ägs av Sveriges Kommuner och Regioner (SKR)
+Kända för bland annat
+ * 1177 Vårdguiden – både webb, app och telefon.
+ * Nationell patientöversikt (NPÖ) – journalinformation mellan vårdgivare.
+ * SITHS – säker identifiering för vårdpersonal.
+ * Pascal – dosförpackade läkemedel.
+ * Vårdhandboken – kunskapsstöd för vårdpersonal.
+ * Sjunet – säkert nätverk för informationsutbyte inom vården.
+ * Webcert, Mina intyg, HSA-katalogen – olika stöd för vårdpersonal och invånare.
+
 ## 1177
-## Vg
-## ve
-## npö 
+Nationell plattform för hela Sveriges hälso- och sjukvård.
+
+## VG
+Vårdgivare
+
+## VE
+Vårdenhet
+
+## SJF
+sammanhållen journalföring 
+
+## NPÖ (inera)
+Nationell Patientöversikt
+
+## HSA (inera)
+Hälso- och Sjukvårdens Adressregister
+
+## HSA-id (inera)
+Hälso- och Sjukvårdens Adressregister id-kort för inloggning
+
+## EHDS 
+European Health Data Space, eller europeiska hälsodataområdet, och är EU:s initiativ för att skapa en gemensam digital infrastruktur för hälsodata.
+
+## WCAG 
+Web Content Accessibility Guidelines
