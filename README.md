@@ -97,7 +97,7 @@ Hälso- och Sjukvårdens Adressregister id-kort för inloggning
 Nationella tjänsteplattformen
 
 ### SUSSA
-Samverkan för utveckling av sammanhållen vård och omsorg
+Strategisk utveckling av sjukvårdsstödjande applikationer
 
 ### EHDS 
 European Health Data Space, eller europeiska hälsodataområdet, och är EU:s initiativ för att skapa en gemensam digital infrastruktur för hälsodata.
