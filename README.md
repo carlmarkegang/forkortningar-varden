@@ -119,3 +119,6 @@ Quality Management System
 
 ### MDR (EU)
 Medical Device Regulation, vilket är en EU-förordning för medicintekniska produkter som syftar till att säkerställa säkerhet, kvalitet och effektivitet.
+
+### HD 
+Hälsodeklaration
