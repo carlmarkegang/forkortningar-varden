@@ -122,3 +122,6 @@ Medical Device Regulation, vilket är en EU-förordning för medicintekniska pro
 
 ### HD 
 Hälsodeklaration
+
+### NVR
+Nationella vaccinationsregistret
