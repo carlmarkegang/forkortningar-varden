@@ -128,3 +128,9 @@ Nationella vaccinationsregistret
 
 ### BHV 
 Barnhälsovården
+
+### PSL
+Patientsäkerhetslagen (2010:659)
+
+### SKL
+Sveriges kommuner och landsting
