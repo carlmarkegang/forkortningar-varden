@@ -134,3 +134,48 @@ Patientsäkerhetslagen (2010:659)
 
 ### SKL
 Sveriges kommuner och landsting
+
+### KOM
+Kommission. Kan syfta till Europeiska kommissionen 
+
+### EHM
+E-hälsomyndigheten
+
+### LV
+Läkemedelsverket
+
+### SCB
+Statistikmyndigheten (statiska centralbyrån)
+
+### NDI
+Nationell digital infrastruktur
+
+### NCP
+Nationell kontaktpukt
+
+### PDI
+Patientdataindex
+
+### NTK
+Nationell tjänste-adresseringskatalog
+
+### VOK 
+Verksamhets- och organisationskatalog
+
+### NSF
+Nationell sprärrfunktion
+
+### NFF
+Nationell företrädarfunktion
+
+### EHR
+Electronic Health Record, elektronisk hälsojournal
+
+### EMR
+Electronic Medical Record, medicinsk digital journal
+
+### EHRxF 
+Electronic Health Record exchange Format
+
+### HDAB
+Health Data Access Body
