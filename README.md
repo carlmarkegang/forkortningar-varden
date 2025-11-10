@@ -179,3 +179,7 @@ Electronic Health Record exchange Format
 
 ### HDAB
 Health Data Access Body
+
+### EUDAMED 
+(European Database on Medical Devices) 
+EU-kommissionens IT-system som införts för att stödja Medical Device Regulation (MDR) och In Vitro Diagnostic Regulation (IVDR). Syftet är att skapa en central plattform för information om medicintekniska produkter och deras aktörer, vilket ökar transparens, spårbarhet och samordning mellan medlemsstater.
