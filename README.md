@@ -186,3 +186,6 @@ EU-kommissionens IT-system som införts för att stödja Medical Device Regulati
 
 ### DPO
 Data Protection Officer 
+
+### SOP 
+Standard Operating Procedure.
