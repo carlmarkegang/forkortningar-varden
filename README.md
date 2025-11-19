@@ -189,3 +189,6 @@ Data Protection Officer
 
 ### SOP 
 Standard Operating Procedure.
+
+### PVG 
+Privat Vårdgivare
