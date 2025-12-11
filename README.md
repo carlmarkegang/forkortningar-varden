@@ -192,3 +192,6 @@ Standard Operating Procedure.
 
 ### PVG 
 Privat Vårdgivare
+
+### GVH
+GetVaccinationHistory
