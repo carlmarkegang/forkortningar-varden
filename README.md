@@ -195,3 +195,12 @@ Privat Vårdgivare
 
 ### GVH
 GetVaccinationHistory
+
+### Försegling
+Försegling är en integritetsskyddande funktion som används inom journalsystem och e-tjänster som 1177 Journalen och MittVaccin. Den innebär att direktåtkomst till patientens uppgifter spärras, antingen:
+
+ * På patientens begäran (självbestämmande).
+ * Efter menprövning av vårdgivare (om det finns risk för men för patienten).
+
+### 
+
