@@ -202,5 +202,6 @@ Försegling är en integritetsskyddande funktion som används inom journalsystem
  * På patientens begäran (självbestämmande).
  * Efter menprövning av vårdgivare (om det finns risk för men för patienten).
 
-### 
+### NPL
+Nationellt produktregister för läkemedel
 
