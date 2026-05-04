@@ -205,3 +205,5 @@ Försegling är en integritetsskyddande funktion som används inom journalsystem
 ### NPL
 Nationellt produktregister för läkemedel
 
+### SSK 
+Sjuksköterska
